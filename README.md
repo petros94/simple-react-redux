@@ -45,3 +45,16 @@ Contains Login and SocialFeed views.
 
 Contains resuable layouts that the views use.
 
+## App Snapshots
+
+### Login view
+
+![Alt text](screenshots/login.png)
+
+### Social Feed view
+
+![Alt text](screenshots/social_feed.png)
+
+
+
+
